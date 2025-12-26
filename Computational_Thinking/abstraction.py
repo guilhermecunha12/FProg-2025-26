@@ -29,5 +29,3 @@ def main(): # only 4 lines!
 
 if __name__ == "__main__":
     main()
-
-

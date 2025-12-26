@@ -44,6 +44,3 @@ def bad_validate_email(email):
         return False
 
     return True
-
-
-

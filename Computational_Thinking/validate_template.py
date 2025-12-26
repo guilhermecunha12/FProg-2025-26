@@ -14,5 +14,3 @@ print(validate(grade, [is_number, in_grade_range]))
 
 strong_password = input()
 print(validate(strong_password, [has_capital_letters, has_lowercase_letters, has_symbols, has_digits]))
-
-
